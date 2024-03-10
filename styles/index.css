@@ -1,0 +1,38 @@
+/* This is a simplistic example. Customize your CSS as needed. */
+body {
+    font-family: Arial, sans-serif;
+}
+
+#auth-container {
+    width: 300px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}

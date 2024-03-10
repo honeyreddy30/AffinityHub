@@ -1,0 +1,64 @@
+{
+    "clubs": [
+        {
+            "id": "1",
+            "name": "Snowboarding",
+            "description": "My snowboarding skills are like my life decisions: sometimes I land perfectly, other times I end up face-first in the snow.",
+            "image": "https://images.pexels.com/photos/3869851/pexels-photo-3869851.jpeg"
+        },
+        {
+            "id": "2",
+            "name": "Dance",
+            "description": "Where the only thing louder than the music is the sound of me trying not to trip over my own feet.",
+            "image": "https://images.pexels.com/photos/209948/pexels-photo-209948.jpeg"
+        },
+        {
+            "id": "3",
+            "name": "Music",
+            "description": "who needs reality when you've got a pair of headphones and a playlist that understands you better than any human ever could?",
+            "image": "https://images.pexels.com/photos/164821/pexels-photo-164821.jpeg"
+        },
+        {
+            "id": "4",
+            "name": "E-sports",
+            "description": "My gaming skills are like a fine wine: they improve with age... and lots of practice.",
+            "image": "https://images.pexels.com/photos/7915357/pexels-photo-7915357.jpeg"
+        },
+        {
+            "id": "5",
+            "name": "Photography",
+            "description": "Where your dinner gets cold because you're too busy taking 37 slightly different photos of it.",
+            "image": "https://images.pexels.com/photos/403495/pexels-photo-403495.jpeg"
+        },
+        {
+            "id": "6",
+            "name": "Painting",
+            "description": "Where 'I'm just going to add a tiny detail' translates to 'I'll see you in another 5 hours.",
+            "image": "https://images.pexels.com/photos/102127/pexels-photo-102127.jpeg"
+        },
+        {
+            "id": "7",
+            "name": "Swimming",
+            "description": " It's like running, but if you stop, you die. Talk about motivation!",
+            "image": "https://images.pexels.com/photos/863988/pexels-photo-863988.jpeg"
+        },
+        {
+            "id": "8",
+            "name": "Kite Surfing",
+            "description": "Ever wanted to combine the fear of drowning with the fear of heights? Kite surfing's got you covered.",
+            "image": "https://images.pexels.com/photos/1604869/pexels-photo-1604869.jpeg"
+        },
+        {
+            "id": "9",
+            "name": "Pottery",
+            "description": "Ah, pottery, the hobby where you spend hours making something you could've bought for three dollars at IKEA.",
+            "image": "https://images.pexels.com/photos/357428/pexels-photo-357428.jpeg"
+        },
+        {
+            "id": "10",
+            "name": "Story Writing",
+            "description": "where 'based on a true story' means I overheard a conversation at a coffee shop and filled in the gaps with aliens and a time-travel subplot.",
+            "image": "https://images.pexels.com/photos/1995842/pexels-photo-1995842.jpeg"
+        }
+    ]
+}
